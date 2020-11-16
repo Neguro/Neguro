@@ -1,15 +1,14 @@
 ## Nassim AHMED ALI - @Neguro
 Élève en BTS Service Informatique aux Organisations option Solutions Logiciel et Application Métier(SLAM) au lycée bonaparte de Toulon et fan d'animation japonaise, de mangas
-et de jeux vidéo Fire Emblem, Xenoblade Chronicles,Ys, Harvest moon, Persona, ... (Ouais que des JRPG principalement xD).
+et de jeux vidéo Fire Emblem, Xenoblade Chronicles,Ys, Harvest moon, Persona, Legends of heroes ... (Ouais que des JRPG principalement xD).
 
 ## Comment je travail ? (ou le secret de ma réusite)
 Combo canapé/lit + monster = Succès immediat testé et approuvé.
 
-## Mes objectifs pour l'été ?
-- [ ] Apprendre a utiliser Unity.
-- [ ] Apprendre le C++.
-- [ ] Faire une première version de mon portfolio.
-- [ ] Réviser pour ma seconde année de BTS.
+## Mes objectifs ?
+- [ ] Apprendre a utiliser NodeJS
+- [ ] Apprendre le C++
+
 
 ## Liens Utiles (Même super utile)
 - Mon [Linkedin](https://fr.linkedin.com/in/nassim-ahmed-ali-38799417a).
