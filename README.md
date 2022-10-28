@@ -96,7 +96,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31h2ybqu2oml4ww742bsvgkbrk6m&redirect=true https://spotify-github-profile.vercel.app/api/view.svg?uid=31h2ybqu2oml4ww742bsvgkbrk6m&cover_image=true&theme=compact&show_offline=false"/></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31h2ybqu2oml4ww742bsvgkbrk6m&cover_image=true&theme=compact&show_offline=false" action="https://spotify-github-profile.vercel.app/api/view.svg?uid=31h2ybqu2oml4ww742bsvgkbrk6m&redirect=true"/></div>  
 
 <br/>  
 
